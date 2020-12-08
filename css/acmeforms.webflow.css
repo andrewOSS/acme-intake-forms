@@ -765,4 +765,5 @@ label {
   src: url('../fonts/SourceSansPro-SemiBold.ttf') format('truetype');
   font-weight: 600;
   font-style: normal;
+  font-display: auto;
 }
